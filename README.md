@@ -1,6 +1,6 @@
 # About Me
 
-My name is Victor, I'm a gamer when I'm not writing code. I want to change the world for the better one line of code at a time. I do enjoy a good binge of anime or some tv show. I really enjoy Isekai animes.
+My name is Victor, I'm a gamer when I'm not writing code. I want to change the world for the better one line of code at a time. I do enjoy a good binge of anime or some tv show. I really enjoy Isekai animes. I don't really like social media except for TikTok and it's mostly to consume social media not make content.
 
 ## Some Animes I'm currently watching
 - To your Eternity
@@ -27,7 +27,7 @@ My name is Victor, I'm a gamer when I'm not writing code. I want to change the w
 ## Contact Me
 
 - Email: contact@tempestas.io
-- LinkedIn: [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivictor-tran/)
+- [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivictor-tran/)
 
 Feel free to reach out to me for any reason, I'm always happy to connect and chat about technology, projects, or anything else. 
 
