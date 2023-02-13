@@ -1,20 +1,19 @@
-# Your Name
+# About Me
 
 My name is Victor, I'm a gamer when I'm not writing code. I want to change the world for the better one line of code at a time.
 
+## Favorite Movies
+- V for Vendetta
+- Avatar (2009)
+
+## Favorite Quotes
+- “Knowledge, like air, is vital to life. Like air, no one should be denied it.” --Alan Moore, V for Vendetta
+- “The past can't hurt you anymore, not unless you let it.” --Alan Moore, V for Vendetta
+
 ## Skills
-- Front-end development 
-- Backend development
-- JavaScript 
-- React 
-- CSS 
-- HTML
-- Sass
-- Node.js
-- TypeScript
-- MongoDB
-- Firebase
-- PostgreSQL
+- Front-end development (HTML, CSS, JS, Sass, React (TS))
+- Backend development (Node (TS), PostgreSQL/MongoDB/Firebase, Express)
+- TDD (Jest/Cypress)
 
 ## Contact Me
 
