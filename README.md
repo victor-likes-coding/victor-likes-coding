@@ -1,6 +1,6 @@
 # About Me
 
-My name is Victor, I'm a gamer when I'm not writing code. I want to change the world for the better one line of code at a time. I do enjoy a good binge of anime or some tv show. I really enjoy Isekai animes. I don't really like social media except for TikTok and it's mostly to consume social media not make content.
+My name is Victor, I'm a gamer when I'm not writing code. I do enjoy a good binge of anime or some tv show. I really enjoy Isekai animes. I don't really like social media except for TikTok and it's mostly to consume social media not make content.
 
 ## Some Animes I'm currently watching
 - To your Eternity
