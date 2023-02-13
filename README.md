@@ -1,6 +1,15 @@
 # About Me
 
-My name is Victor, I'm a gamer when I'm not writing code. I want to change the world for the better one line of code at a time.
+My name is Victor, I'm a gamer when I'm not writing code. I want to change the world for the better one line of code at a time. I do enjoy a good binge of anime or some tv show. I really enjoy Isekai animes.
+
+## Some Animes I'm currently watching
+- To your Eternity
+- One Piece
+- Bleach: Thousand Year War
+- My Hero Academia
+- The Reincarnation Of The Strongest Exorcist In Another World
+- The Misfit of Demon King Academy
+- many more that are on hiatus
 
 ## Favorite Movies
 - V for Vendetta
