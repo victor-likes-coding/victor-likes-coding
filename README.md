@@ -19,7 +19,7 @@ My name is Victor, I'm a gamer when I'm not writing code. I want to change the w
 ## Contact Me
 
 - Email: contact@tempestas.io
-- LinkedIn: ([<i class="fa fa-linkedin"></i>](https://www.linkedin.com/in/ivictor-tran/))
+- LinkedIn: (<img src="https://image.flaticon.com/icons/svg/61/61109.svg" width="20" height="20">(https://www.linkedin.com/in/ivictor-tran/))
 
 Feel free to reach out to me for any reason, I'm always happy to connect and chat about technology, projects, or anything else. 
 
