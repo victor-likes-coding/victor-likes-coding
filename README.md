@@ -27,7 +27,7 @@ My name is Victor, I'm a gamer when I'm not writing code. I do enjoy a good bing
 ## Contact Me
 
 - Email: victor.tran@tempestas.io
-- [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivictor-tran/)
+- [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-likes-coding/)
 
 Feel free to reach out to me for any reason, I'm always happy to connect and chat about technology, projects, or anything else. 
 
