@@ -3,25 +3,26 @@
 My name is Victor, I'm a gamer when I'm not writing code. I do enjoy a good binge of anime or some tv show. I really enjoy Isekai animes. I don't really like social media except for TikTok and it's mostly to consume social media not make content.
 
 ## Some Animes I'm currently watching
-- To your Eternity
+- Tsukimichi: Moonlit Fantasy
 - One Piece
-- Bleach: Thousand Year War
-- My Hero Academia
-- The Reincarnation Of The Strongest Exorcist In Another World
-- The Misfit of Demon King Academy
+- Classroom of the Elite
+- Solo Leveling
+- MASHLE: MAGIC AND MUSCLES
+- Frieren: Beyond Journey's End
+- The Wrong Way to Use Healing Magic
 - many more that are on hiatus
 
 ## Favorite Movies
 - V for Vendetta
-- Avatar (2009)
+- Avatar (2009) & Way of Water (2023)
 
 ## Favorite Quotes
 - “Knowledge, like air, is vital to life. Like air, no one should be denied it.” --Alan Moore, V for Vendetta
 - “The past can't hurt you anymore, not unless you let it.” --Alan Moore, V for Vendetta
 
 ## Skills
-- Front-end development (HTML, CSS, JS, Sass, React (TS))
-- Backend development (Node (TS), PostgreSQL/MongoDB/Firebase, Express)
+- Front-end development (HTML, CSS, JS, Sass, React (TS), Remix)
+- Backend development (Node (TS), PostgreSQL/MongoDB/Firebase, Express, Prisma)
 - TDD (Jest/Cypress)
 
 ## Contact Me
